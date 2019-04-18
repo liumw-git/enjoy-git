@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloJenkins {
     @RequestMapping("/")
     public String Hello(){
-        return "Hello Jenkins";
+        return "Hello Jenkins 20190418";
     }
 }
